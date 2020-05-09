@@ -17,9 +17,7 @@
 <br>
 
 <p>
-  <a href="https://raw.githack.com/ebukaume/employee-time-tracker/master/dist/index.html" target="_blank">
-    <img alt="Website" src="./docs/todolist.png" />
-  </a>
+    <img alt="Demo" src="./doc/demo.png" />
 </p>
 
 <br>
