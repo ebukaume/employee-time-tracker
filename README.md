@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/ebukaume/employee-time-tracker/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ebukaume/employee-time-tracker" />
+    <img alt="License: ISC" src="https://img.shields.io/github/license/ebukaume/employee-time-tracker" />
   </a>
   <a href="https://twitter.com/ebukaume" target="_blank">
     <img alt="Twitter: ebukaume" src="https://img.shields.io/twitter/follow/ebukaume.svg?style=social" />
@@ -99,7 +99,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/ebukaume/employee-time-tracker/blob/master/LICENSE) licensed.
+This project is [ISC](https://github.com/ebukaume/employee-time-tracker/blob/master/LICENSE) licensed.
 
 
 ## Contact me
